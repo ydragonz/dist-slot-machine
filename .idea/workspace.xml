@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e760dd9-8f79-4e1d-b04d-e3bb66c4b8c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydragonz/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydragonz/client/MainClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydragonz/client/SlotMachineApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydragonz/server/MainServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ydragonz/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ydragonz/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ydragonz/server/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Client 1.executor": "Run",
+    "Application.Client 2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainClient.executor": "Run",
     "Application.MainServer.executor": "Run",
@@ -60,7 +52,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Client 1">
+  <component name="RunManager" selected="Application.Client 3">
     <configuration name="Client 1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.ydragonz.client.MainClient" />
       <module name="SlotMachine" />
@@ -69,6 +61,13 @@
       </method>
     </configuration>
     <configuration name="Client 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.ydragonz.client.MainClient" />
+      <module name="SlotMachine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client 3" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.ydragonz.client.MainClient" />
       <module name="SlotMachine" />
       <method v="2">
@@ -85,6 +84,7 @@
     <list>
       <item itemvalue="Application.Client 1" />
       <item itemvalue="Application.Client 2" />
+      <item itemvalue="Application.Client 3" />
       <item itemvalue="Application.Server" />
     </list>
   </component>
